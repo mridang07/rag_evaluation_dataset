@@ -1,0 +1,22 @@
+[
+  {
+    "context": "Document intelligence systems process enterprise documents using OCR and classification.",
+    "question": "What is the role of OCR?",
+    "answer": "OCR extracts text from scanned documents."
+  },
+  {
+    "context": "RAG combines retrieval and generation for better accuracy.",
+    "question": "Why is RAG used?",
+    "answer": "To improve accuracy using external data."
+  },
+  {
+    "context": "Vector databases store embeddings for semantic search.",
+    "question": "What is a vector database?",
+    "answer": "It stores embeddings for similarity-based retrieval."
+  },
+  {
+    "context": "Agentic systems use AI agents for task execution.",
+    "question": "What is an agentic system?",
+    "answer": "A system where AI agents autonomously perform tasks."
+  }
+]
